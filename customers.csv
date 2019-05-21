@@ -1,0 +1,6 @@
+AccountNumber,Pin,Name,Balance,Employee
+1,1111,Cust1,3.33,False
+2,2222,Cust2,43.55,False
+3,3333,Cust3,300.00,False
+4,4444,Cust4,500000.00,False
+1,5555,Employee1,0.00,True
