@@ -1,0 +1,2 @@
+# Kitchen-Supply
+A project a college student asked me to complete which is a order management system. You can log into a customer account and add products to your cart. Then procede to the checkout and view the cart toal, or modify your items in your cart. Information on products is read in as json and customer data is stored as a csv file. When a customer makes a purchase their balance is updated and a new entry is added to the order log file. If you log into an employee account you can go into inventory edit mode and change the avialable product quanity of a given item. 
